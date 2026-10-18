@@ -1,0 +1,9 @@
+# Build output
+/evalh
+/evalh.exe
+
+# Eval run output
+/runs/
+
+# Local environment
+.env
