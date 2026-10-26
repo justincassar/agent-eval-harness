@@ -11,7 +11,8 @@ environments and grade each run on more than just the final answer:
 - **Reliability**: does it pass every time, or only sometimes?
 - **Cost**: tokens, dollars and latency per task.
 
-Work in progress.
+Work in progress. See the [design doc](docs/design.md) for goals, architecture
+and the decisions behind them.
 
 ## License
 
